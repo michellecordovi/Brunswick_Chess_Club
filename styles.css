@@ -302,7 +302,7 @@ button {
      }
 
      .mem-box {
-      width: 500px;
+      max-width: 500px;
       justify-self: center;
       height: fit-content;
       margin: 1rem;
